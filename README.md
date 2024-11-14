@@ -1,4 +1,7 @@
-# pomodoro-timer
+
+![Pomodoro_Timer](https://github.com/user-attachments/assets/5cbb70d1-0ae7-46a7-8eb7-e74119acc39b)
+
+# Pomodoro timer
 A simple pomodoro timer app made with tkinter.
 It has a 'work' and 'rest' cycle to keep you fresh troughout your learning experience.
 
